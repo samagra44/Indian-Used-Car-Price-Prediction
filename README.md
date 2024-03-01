@@ -61,3 +61,9 @@ The quality score of a car has a direct bearing on its price. Cars with higher q
 In terms of machine learning models, decision tree regressor and random forest regressor models were employed to predict car prices. Among these, the random forest regressor model demonstrated superior performance. An examination of feature importance revealed that car age, body style, and car manufacturer are the key drivers affecting car prices.
 
 This data-driven project equips both buyers and sellers in the Indian used car market with valuable insights, empowering them to make informed decisions and facilitating more accurate price predictions.
+
+# Output
+
+<p align="center">
+  <img src="https://github.com/samagra44/Indian-Used-Car-Price-Prediction/assets/77968722/292f3d0c-6d7a-439c-a0f6-1cd5af34879c" width=700 height=300 alt="animated" />
+</p>
