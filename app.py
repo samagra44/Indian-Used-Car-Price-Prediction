@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pickle
-import joblib
 # Load the trained model using pickle
 with open('model.pkl', 'rb') as model_file:
     rfr = pickle.load(model_file)
